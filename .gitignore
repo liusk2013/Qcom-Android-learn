@@ -1,0 +1,2 @@
+#file or directory below will ignore by git 
+./test.c
