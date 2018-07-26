@@ -1,0 +1,3 @@
+usb phy相关：
+./kernel/drivers/usb/phy/phy-msm-usb.c
+涉及到host和dev的判断，id引脚变化中断，设置host和dev等

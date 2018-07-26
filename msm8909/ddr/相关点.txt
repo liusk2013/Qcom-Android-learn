@@ -1,0 +1,3 @@
+LINUX/android/bootable/bootloader/lk/target/msm8909/meminfo.c中
+target_dev_tree_mem函数的：
+ptn_entry.size为对应检测到的内存大小。
